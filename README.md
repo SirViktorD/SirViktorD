@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [MICROSOFT SENTINEL(SIEM) SETUP](https://github.com/SirViktorD/Setup-SIEM-on-Azure-Sentinel.git))
+  - [MICROSOFT SENTINEL(SIEM) SETUP](https://github.com/SirViktorD/Setup-SIEM-on-Azure-Sentinel.git)
+
+  - [ACTIVE DIRECTORY SETUP](https://github.com/SirViktorD/Setting-up-an-Active-Directory-Environment-Home-Lab.git)
 
 <h2>📺 Certifications:</h2>
 
